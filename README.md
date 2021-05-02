@@ -21,3 +21,5 @@ Now change the root in /etc/nginx/sites-available/default   /var/www/html/fronte
 
 # systemctl restart nginx
 ```
+
+![image](https://user-images.githubusercontent.com/82637337/116817881-2e8ea600-ab86-11eb-8344-f759f7a3add4.png)
